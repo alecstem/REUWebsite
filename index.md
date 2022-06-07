@@ -1,1 +1,1 @@
-## Our Project
+## 2022 REU on Smart UAVs
