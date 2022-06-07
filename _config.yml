@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 github:
   repository_url: http://test.com/
+self:
+  about: https://alecstem.github.io/about/
