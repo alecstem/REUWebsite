@@ -10,12 +10,12 @@ Week 5\
 Week 6\
 Week 7\
 Week 8
-#
+
 ### Presentations
 Friday Seminar Presentation\
 Mid-term Presentation\
 Final Presentation
-#
+
 ### Written Materials
 Poster\
 Mid-term Paper\
