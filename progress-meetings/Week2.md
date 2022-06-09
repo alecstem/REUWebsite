@@ -38,7 +38,6 @@
 
 
 <p align="center">
-  <img src="Images/NC_Chapel_Hill_logo.png" width="700" height="400" >
   <img src="Images/point%20cloud.png" width="300" height="200" >
   <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/before_astar_auburn.gif" width="300" height="200" >
   <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/before.png" width="300" height="200" >
