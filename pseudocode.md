@@ -7,10 +7,12 @@
 
 Type in lats(1) and longs(1)\
 Type in lats(2) and long(2)\
+Sort input coridnate from max lat, max long, min lat, min long\
 Search API for Databases in that region\
 Get json data for these databases\
-  Check all the files in that database\
-  Download first file in database\
+  Extract altname of database and EPSG converison code\
+    Check all the files in that database\
+    Download first file in database\
   
 Convert downloaded laz file to las file\
 Convert las file to ascii file\
@@ -49,7 +51,9 @@ Send GPS coridnates to drone for flight path\
 While not at end point\
   Constantly calculate A*\
   If LiDAR scanner finds obsticle\
-    create new best path\
+    Create new best path\
+      Convert new best path to GPS\
+      Send GPS points to drone\
 
   Avoid obsticle and reconnect with orginal path\
 
