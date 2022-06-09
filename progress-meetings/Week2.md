@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <img src="Images/point cloud.png" width="300" height="200" >
+  <img src="Images/point_cloud.png" width="300" height="200" >
   <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/before_astar_auburn.gif" width="300" height="200" >
   <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/before.png" width="300" height="200" >
   <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/after.png" width="300" height="200" >
