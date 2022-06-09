@@ -3,6 +3,7 @@
 ## This is where we will write a breif description of the related works and then link those papers :)
 
 References
+
 [1] “A critical review on unmanned aerial vehicles power supply and energy management: Solutions,
 strategies, and prospects”. In: Applied Energy 255 (2019), p. 113823. issn: 0306-2619. doi: https:
 //doi.org/10.1016/j.apenergy.2019.113823.
