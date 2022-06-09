@@ -4,7 +4,7 @@ Here you may access the materials that we created during the course of the REU.
 
 ### Weekly Progress Meetings
 
-[Markdown Live Preview](/weekly-progress/Week2).
+[Markdown Live Preview](/progress-meeting/Week2).
 
 Week 2\
 Week 3\
