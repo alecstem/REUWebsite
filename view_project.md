@@ -1,6 +1,6 @@
 # View Project
 
-## Psudocode
+## [Pseudocode](/pseudocode.md)
 
 ## Visuals
 
