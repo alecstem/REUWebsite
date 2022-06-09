@@ -39,11 +39,11 @@
 
 <p align="center">
   <img src="/Images/point_cloud.png" width="300" height="200" >
-  <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/before_astar_auburn.gif" width="300" height="200" >
-  <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/before.png" width="300" height="200" >
-  <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/after.png" width="300" height="200" >
-  <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/cross_auburn_buffer2.gif" width="300" height="200" >
-  <img src="https://github.com/alecstem/2022-REU-on-Smart-UAVs/blob/main/images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
+  <img src="/Images/before_astar_auburn.gif" width="300" height="200" >
+  <img src="/Images/before.png" width="300" height="200" >
+  <img src="/Images/after.png" width="300" height="200" >
+  <img src="/Images/cross_auburn_buffer2.gif" width="300" height="200" >
+  <img src="/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
   
   
 </p>
