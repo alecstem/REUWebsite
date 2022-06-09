@@ -1,7 +1,4 @@
-#theme: jekyll-theme-cayman
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-cayman
 image: /Image/website_banner.jpg
 github:
   repository_url: https://alecstem.github.io/REUWebsite/
