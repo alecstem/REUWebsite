@@ -1,1 +1,3 @@
-# This is where we will have our process broken down into pseudocode 
+# Pseudocode
+
+## This is where we will have our process broken down into pseudocode 
