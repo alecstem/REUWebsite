@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/point_cloud.png" width="300" height="200" >
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/before_astar_auburn.gif)" width="300" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/before_astar_auburn.gif" width="300" height="200" >
   <img src="/Images/before.png" width="300" height="200" >
   <img src="/Images/after.png" width="300" height="200" >
   <img src="/Images/cross_auburn_buffer2.gif" width="300" height="200" >
