@@ -2,6 +2,6 @@
 
 ## [Pseudocode](/pseudocode.md)
 
-## Visuals
+## [Visualization](/visualization.md)
 
 ## Our GitHub Repository
