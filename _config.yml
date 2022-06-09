@@ -1,4 +1,4 @@
-theme: dark-theme #jekyll-theme-cayman
+theme: jekyll-theme-dark #jekyll-theme-cayman
 image: /Image/website_banner.jpg
 github:
   repository_url: https://alecstem.github.io/REUWebsite/
