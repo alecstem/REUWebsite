@@ -1,7 +1,7 @@
 # View Project
 
-# Psudocode
+## Psudocode
 
-# Visuals
+## Visuals
 
-# Our GitHub Repository
+## Our GitHub Repository
