@@ -33,5 +33,5 @@
 * This week was very good. We faced many more problems than the week before but we were able to keep our heads up and persever through the trials and still make some progress every day. We have a much better understanding of how our program should work and operate leading us to both be able to work on seperate parts and it still come together smoothly. Overall, this week was very good and we made solid progress and hope that the trend of these past few weeks continue. 
 
 <p align="center">
-  <img src="/Images/point%20cloud.png" width="300" height="200" >
+  <img src="/Images/point_cloud.png" width="300" height="200" >
 </p>
