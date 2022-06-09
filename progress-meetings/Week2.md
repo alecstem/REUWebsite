@@ -36,9 +36,8 @@
 
 * This week went phenomenal. We worked very diligently to formulate a plan and outline of our project finding large flaws with the original idea and working to find sloutions. Once that was done we stared to split our days into half implmentation of code and the other half literary anlysis. This allowed for us to move at a comfortable pace of seeing progress and addressing riseing questions as well as how we can improve the research that has already been preformed. We were able to have some of the very basic elements of our program run and this led us to a better idea of what is possible with our plan. We had some bigger problems arrise that we are still having to address, however, overall this week was very productive and we hope to continue to have weeks like this as we progress.
 
-
 <p align="center">
-  <img src="/Images/point_cloud.png" width="300" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/point_cloud.png" width="300" height="200" >
   <img src="/Images/before_astar_auburn.gif" width="300" height="200" >
   <img src="/Images/before.png" width="300" height="200" >
   <img src="/Images/after.png" width="300" height="200" >
