@@ -9,4 +9,4 @@ With the growing use of unmanned aerial vehicles UAVs for commercial and militar
 </p>
 
 ## This is where we have a window with the PDF of our paper
-<embed src="https://github.com/alecstem/REUWebsite/blob/gh-pages/2022_REU_on_Smart_UAVs.pdf" width="100%" height="850px"/>
+<embed src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/2022_REU_on_Smart_UAVs.pdf" width="100%" height="850px"/>
