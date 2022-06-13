@@ -6,13 +6,13 @@
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
 
 * 2D gnenrations
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/figure01.png" width="1200" height="200" >
 
 * Buffer diffrence
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
 
 * 3D scan
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/Lidar_path(1).png" width="1200" height="200" >
 
 * Original path output
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
