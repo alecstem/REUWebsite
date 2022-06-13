@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
 
 * Simulation picture
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/ARDU_Path_compair.png" width="1200" height="200" >
 
 * Collision avoidence example pictures
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
