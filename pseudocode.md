@@ -27,7 +27,20 @@ Generrate buffer for each layer using BFS\
 
 ### Combine 2D grids to form a 3D matrix:\
 
-Combine 2D grids to form a 3D matrix\
+M <-- matrix
+height_values <-- H
+for cur_height = Zmin to Zmax do
+  G <-- grid
+  for x, y & G do
+    if cur_height - H[x,y] <= threshold then
+      G[x,y] <-- obstacle
+    else 
+      G[x,y] <-- free
+    end if
+    G <-- bfs(G, buffer_size)
+    M <-- append(G)
+end for
+return M
 
 ### Run path planning algorithm:\
 
