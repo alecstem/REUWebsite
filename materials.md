@@ -14,10 +14,10 @@ These are all of the materials we created during the course of the REU. The prog
 
 ### Presentations
 [Friday Seminar Presentation](https://docs.google.com/presentation/d/1KbjP7y5YD01b_-mqpuHud6Zko5ZsL4j2IQoNp3FVQ-k/edit?usp=sharing)\
-[Mid-term Presentation](https://docs.google.com/presentation/d/1_qRp0-q7bPhG4q0aqasOj2JVOikDBTA9m6sfRDQibyw/edit?usp=sharing)\
+Mid-term Presentation\
 Final Presentation
 
 ### Written Materials
-[Mid-term Paper](/2022_REU_on_Smart_UAVs.pdf)\
+Mid-term Paper\
 Final Paper\
 Poster
