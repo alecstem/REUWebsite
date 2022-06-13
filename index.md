@@ -9,3 +9,4 @@ With the growing use of unmanned aerial vehicles UAVs for commercial and militar
 </p>
 
 ## This is where we have a window with the PDF of our paper
+<embed src="https://yourusername.github.io/filename.pdf" width="100%" height="850px"/>
