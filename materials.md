@@ -18,6 +18,6 @@ Mid-term Presentation\
 Final Presentation
 
 ### Written Materials
-Poster\
 Mid-term Paper\
-Final Paper
+Final Paper\
+Poster
