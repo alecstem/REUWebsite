@@ -13,6 +13,7 @@
 
 * 3D scan
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/point_cloud.png" width="1200" height="300" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/New_York_LiDAR.png" width="1200" height="300" >
 
 * Original path output\
   <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/Lidar_path (1).png" width="400" height="300" >\
