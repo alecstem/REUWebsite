@@ -1,7 +1,7 @@
 # Related Research
 
 ## Breif description of the related works and then link those papers
-There has been many significant contributions to the field of UAV research over the years. The references listed below covers the research we preformed to create our project. The research spans from 2D path planning to 3D DEM path planning and various deep dives into critical aspects of our process. 
+There has been many significant contributions to the field of UAV research over the years. The references listed below covers the research we preformed to create our project. The research spans from 2D path planning to 3D DEM path planning and various deep dives into critical aspects of our process. These articles can be broken down into four diffrent disiplines. The disiplines are mapping classifications, LiDAR and UAVs, UAV path planning, and collsion avoidence. The mapping classification articles describe diffrent process and types of mapping. Some of the outlined systems are map-building, map-less, and map-based. The LiDAR and UAV articles preview the common uses of LiDAR when combined with UAVs with examples like mapping and inspections. These papers also describe how LiDAR is converted from light beems to point clouds. The UAV path planning articles outline and describe diffrent path planning aproaches like RRT and A* along with several others giving comparisoins of each type. The last group of articles focus on collsion avoidence. These papers anlyize the two main componets of collision avoidence. These are sensing and dectection along with manuver approaches.
 
 ### References
 
