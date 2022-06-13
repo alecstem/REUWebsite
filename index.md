@@ -8,7 +8,7 @@ With the growing use of unmanned aerial vehicles UAVs for commercial and militar
   <img src="Images/UML_diagram.png" width="1000" height="150" >
 </p>
 
-## This is where we have a window with the PDF of our paper
+## PDF of our paper
 <!-- <a href="/gh-pages/2022_REU_on_Smart_UAVs.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>-->
-[Week 2](/2022_REU_on_Smart_UAVs.pdf)
+[PDF 2022 REU on Smart UAVs](/2022_REU_on_Smart_UAVs.pdf)
 <!-- <embed src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/2022_REU_on_Smart_UAVs.pdf" width="100%" height="850px"/> -->
