@@ -1,7 +1,7 @@
 # Related Research
 
 ## Breif description of the related works and then link those papers
-This is where we type a summary of the papers used...
+There has been many significant contributions to the field of UAV research over the years. The references listed below covers the research we preformed to create our project. The research spans from 2D path planning to 3D DEM path planning and various deep dives into critical aspects of our process. 
 
 ### References
 
