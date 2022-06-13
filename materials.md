@@ -13,7 +13,7 @@ Here you may access the materials that we created during the course of the REU.
 [Week 8](/progress-meetings/Week8.md)
 
 ### Presentations
-Friday Seminar Presentation\
+[Friday Seminar Presentation](https://docs.google.com/presentation/d/1KbjP7y5YD01b_-mqpuHud6Zko5ZsL4j2IQoNp3FVQ-k/edit?usp=sharing)\
 Mid-term Presentation\
 Final Presentation
 
