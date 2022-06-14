@@ -1,33 +1,36 @@
 # Visualization
+Below are a collection of images that we created during the research project to show our progress visually and aid understanding.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/process diagram.png" width="500" height="200" >
+</p>
+<p align="center">
+  <i>Overall process from importing point cloud data to sending coordinates to the UAV.</i>
+</p>
 
-## This is where we will have the code visualizied
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/before_astar_auburn.gif" width="500" height="200" >
+</p>
+<p align="center">
+  <i>Animation showcasing the validity of the 3D obstacle matrix.</i>
+</p>
 
-* lats and longs input with dabase search
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/cross_auburn_buffer2.gif" width="500" height="200" >
+</p>
+<p align="center">
+  <i>Previous animation with pathfinding (via a 2D A* algorithm) and horizontal buffer.</i>
+</p>
 
-* 2D gnenrations
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/figure01.png" width="1200" height="200" >
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/pathsmoothing.png" width="500" height="200" >
+</p>
+<p align="center">
+  <i>3D A* algorithm applied on real world USGS 3DEP point cloud, with and without path smoothing.</i>
+</p>
 
-* Buffer diffrence
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/Buffer_compair.png" width="1200" height="400" >
-
-* 3D scan
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/point_cloud.png" width="1200" height="300" >
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/New_York_LiDAR.png" width="400" height="300" >
-
-* Original path output\
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/Lidar_path (1).png" width="400" height="300" >\
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/3D_path.png" width="400" height="300" >
-  
-* Path Smoothing
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/pathsmoothing.png" width="1200" height="300" >
-
-* Conversion code
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
-
-* Simulation picture
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/ARDU_Path_compair.png" width="1200" height="300" >
-
-* Collision avoidence example pictures
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/lats_and_longs_to_location_or_database_name.png" width="1200" height="200" >
-  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/ARDU_Path_compair.png" width="500" height="200" >
+</p>
+<p align="center">
+  <i>Comparison of point cloud path to real-world simulation in ARDU Pilot after conversions are applied.</i>
+</p>
