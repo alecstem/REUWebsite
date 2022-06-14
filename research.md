@@ -1,9 +1,9 @@
 # Related Research
 
-## Breif description of the related works and then link those papers
+## Brief Description
 There has been many significant contributions to the field of UAV research over the years. The references listed below cover the research we performed to create our project. The research spans from 2D path planning to 3D DEM path planning and various deep dives into critical aspects of our process. These articles can be broken down into four different disciplines. The disciplines are mapping classifications, LiDAR and UAVs, UAV path planning, and collision avoidance. The mapping classification articles describe different processes and types of mapping. Some of the outlined systems are map-building, map-less, and map-based. The LiDAR and UAV articles preview the common uses of LiDAR when combined with UAVs with examples like mapping and inspections. These papers also describe how LiDAR is converted from light beams to point clouds. The UAV path planning articles outline and describe different path planning approaches like RRT and A* along with several others giving comparisons of each type. The last group of articles focus on collision avoidance. These papers analyze the two main components of collision avoidance. These are sensing and detection along with maneuver approaches.
 
-### References
+### Paper References
 
 [1] “A critical review on unmanned aerial vehicles power supply and energy management: Solutions,
 strategies, and prospects”. In: Applied Energy 255 (2019), p. 113823. issn: 0306-2619. doi: https:
@@ -88,7 +88,6 @@ program/topographic-data-quality-levels-qls.
 [22] Wikipedia. Simultaneous localization and mapping — Wikipedia, The Free Encyclopedia. http://en.
 wikipedia.org/w/index.php?title=Simultaneous%20localization%20and%20mapping&oldid=
 1092128572.
-
 
 [23] Liang Yang et al. “A literature review of UAV 3D path planning”. In: Proceeding of the 11th World
 Congress on Intelligent Control and Automation. 2014, pp. 2376–2381. doi: 10.1109/WCICA.2014.
