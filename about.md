@@ -16,3 +16,11 @@ Luke Bower is a sophomore computer science student from the University of Alabam
 <p align="center">
   <img src="Images/UAH_logo.png" width="300" height="170" >
 </p>
+
+# Contact Us
+
+### Alec Pugh
+Email: alecjp@unc.edu
+
+### Luke Bower
+Email: lcb0035@uah.edu
