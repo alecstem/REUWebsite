@@ -7,4 +7,4 @@ This is our project broken down into pseudocode for later replecation.
 This is our project broken down into a visual reprsentation.
 
 ## [GitHub Repository](https://github.com/alecstem/2022-REU-on-Smart-UAVs)
-View soure code and more at the repository.
+View source code and more at the repository.
