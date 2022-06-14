@@ -1,4 +1,4 @@
-# View Project
+# Project Info
 
 ## [Pseudocode](/pseudocode.md)
 This is our project broken down into pseudocode for later replecation.
@@ -6,5 +6,5 @@ This is our project broken down into pseudocode for later replecation.
 ## [Visualization](/visualization.md)
 This is our project broken down into a visual reprsentation.
 
-## [Our GitHub Repository](https://github.com/alecstem/2022-REU-on-Smart-UAVs)
-This is our project writen in Python.
+## [GitHub Repository](https://github.com/alecstem/2022-REU-on-Smart-UAVs)
+View soure code and more at the repository.
