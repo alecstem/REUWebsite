@@ -17,10 +17,10 @@ _Abstract:_ With the growing use of unmanned aerial vehicles UAVs for commercial
 | 2D LiDAR Scanner | Equipped to the UAV for collision detection and avoidance testing. |
 
 ### [Pseudocode](/pseudocode.md)
-This is our project broken down into pseudocode for later replecation.
+Contains pseudocode snippets from our paper detailing the algorithms used in our process.
 
 ### [Visualization](/visualization.md)
-This is our project broken down into a visual reprsentation.
+Contains images and diagrams to aid with understanding.
 
 ### [GitHub Repository](https://github.com/alecstem/2022-REU-on-Smart-UAVs)
 View source code at the repository.
