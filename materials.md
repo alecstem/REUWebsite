@@ -18,6 +18,6 @@ Mid-term Presentation\
 Final Presentation
 
 ### Written Materials
-Mid-term Paper\
+[Mid-term Paper](/2022_REU_on_Smart_UAVs.pdf)\
 Final Paper\
 Poster
