@@ -1,6 +1,6 @@
 ## Project Materials
 
-These are all of the materials we created during the course of the REU. The progress meetings is an overview of each weeks progress, the presentations are slides presenting our research, and the written materials holds our papers and poster.
+These are all of the materials we created during the course of the REU. The progress meetings are an overview of our progress each week, the presentations are slides presenting our research during the seminars, and the written materials contain our papers and poster.
 
 ### Weekly Progress Meetings
 
