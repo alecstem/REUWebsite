@@ -22,10 +22,10 @@ Below are a collection of images that we created during the research project to 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/Buffer_compair.png" width="500" height="400" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/Buffer_compair.png" width="500" height="250" >
 </p>
 <p align="center">
-  <i>Compairs the path with and without the buffer applied.</i>
+  <i>Comparison of the best path with and without the buffer applied.</i>
 </p>
 
 <p align="center">
