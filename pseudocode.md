@@ -1,72 +1,23 @@
 # Pseudocode
+These are various pseudocode snippets of algorithms we created in LaTeX for our paper.
 
-## This is where we will have our process broken down into pseudocode 
+<p align="center">
+<img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/algorithm1.png" width="400" height="200" >
+</p>
+<p align="center">
+Algorithm for creating 3D obstacle data matrix.
+</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/algorithm2.png" width="400" height="100" >
+</p>
+<p align="center">
+Algorithm for transforming best path coordinates to point cloud space (WGS 84).
+</p>
 
-### Import point cloud data:\
-
-Type in lats(1) and longs(1)\
-Type in lats(2) and long(2)\
-Sort input coridnate from max lat, max long, min lat, min long\
-Search API for Databases in that region\
-Get json data for these databases\
-  Extract altname of database and EPSG converison code\
-    Check all the files in that database\
-    Download first file in database\
-  
-Convert downloaded laz file to las file\
-Convert las file to ascii file\
-
-### Generate 2D grid:\
-
-Break up each x, y coridnates per height from ascii file\
-
-### Generrate buffer for each height:\
-
-Generrate buffer for each layer using BFS\
-
-### Combine 2D grids to form a 3D matrix:\
-
-M <-- matrix \
-height_values <-- H \
-for cur_height = Zmin to Zmax do \
-  G <-- grid \
-  for x, y & G do \
-    if cur_height - H[x,y] <= threshold then \
-      G[x,y] <-- obstacle \
-    else \
-      G[x,y] <-- free \ 
-    end if \
-    G <-- bfs(G, buffer_size) \
-    M <-- append(G) \
-end for \
-return M \
-
-### Run path planning algorithm:\
-
-Run adapted A* on the layered model\
-  Form a path and produce points for the path\
-  
-### Convert best path to pointclouds:\
-
-Convert best path points to point cloud points\
-
-### Convert point cloud to GPS:\
-
-Convert point cloud points to GPS coridnates\
-
-### Send path to UAV:\
-
-Send GPS coridnates to drone for flight path\
-
-### Collision avoidence:\
-
-While not at end point\
-  Constantly calculate A*\
-  If LiDAR scanner finds obsticle\
-    Create new best path\
-      Convert new best path to GPS\
-      Send GPS points to drone\
-
-  Avoid obsticle and reconnect with orginal path\
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/algorithm3.png" width="400" height="200" >
+</p>
+<p align="center">
+Algorithm for calculating avoidance paths for collision avoidance.
+</p>
