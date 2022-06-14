@@ -6,6 +6,6 @@
 This website will host information about our research project conducted at Auburn University during the Summer of 2022.
 </div>
 <div align="center">
-<a href="/Midterm_Paper.pdf">Mid-term Paper</a>
+<a href="/REUWebsite/Midterm_Paper.pdf">Mid-term Paper</a>
 </div>
 
