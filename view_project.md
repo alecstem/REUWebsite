@@ -1,4 +1,6 @@
-## 3D UAV Path Planning Using Aerially Obtained Point Clouds
+# Project Info
+
+## Title: 3D UAV Path Planning Using Aerially Obtained Point Clouds
 
 ### [Pseudocode](/pseudocode.md)
 This is our project broken down into pseudocode for later replecation.
