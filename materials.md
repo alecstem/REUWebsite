@@ -14,7 +14,7 @@ Week 8
 
 ### Presentations
 [Friday Seminar Presentation](https://docs.google.com/presentation/d/1KbjP7y5YD01b_-mqpuHud6Zko5ZsL4j2IQoNp3FVQ-k/edit?usp=sharing)\
-Mid-term Presentation\
+[Mid-term Presentation](https://docs.google.com/presentation/d/181ZvXhcdHpZ4WADBEf2VqIRal-t6j8Jq39bH9s006TY/edit?usp=sharing)\
 Final Presentation
 
 ### Written Materials
