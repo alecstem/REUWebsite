@@ -22,5 +22,8 @@ Contains pseudocode snippets from our paper detailing the algorithms used in our
 ### [Visualization](/visualization.md)
 Contains images and diagrams to aid with understanding.
 
+### [Demonstration](/demonstration.md)
+Contains videos of demonstrations of our prcess.
+
 ### [GitHub Repository](https://github.com/alecstem/2022-REU-on-Smart-UAVs)
 View source code at the repository.
