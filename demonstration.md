@@ -6,7 +6,6 @@ This is where you can see working demos of diffrent aspects of our process.
 ### Test01
 
 ### Test02
-<video src='your URL here' width=180/>
 
 ## ARDU Pilot Sim
 
