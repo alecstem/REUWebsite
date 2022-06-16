@@ -4,15 +4,10 @@ This is where you can see working demos of diffrent aspects of our process.
 ## Collision Avoidence
 
 ### Test01
-<video src='https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Vid/Demo 7 - Compressed.m4v?raw=true' width=360/>
 
 ### Test02
 <video src='your URL here' width=180/>
 
 ## ARDU Pilot Sim
 
-### Test01
-<video src='your URL here' width=180/>
-
-### Test02
-<video src='https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Vid/Demo%207%20-%20Compressed.m4v' width=180/>
+[![Alternate Text]({https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png})]({https://drive.google.com/file/d/1sfoY2eX5Lp4v28I3MlnGT8bDylM5qbCA/view?usp=sharing} "Link Title")
