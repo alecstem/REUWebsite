@@ -1,7 +1,6 @@
 # Demonstrations
-This is where you can see working demos of diffrent aspects of our process.
-
-## Collision Avoidence
+This is where you can view working demos of collision avoidance and the conversions from point cloud to GPS way points simulated in ARDU Pilot.
+## Collision Avoidance
 ### Test 1
 <iframe src="https://drive.google.com/file/d/1RdUg42GmiNS8l3Ck_wcyI5Mx5zzRNY2s/preview" width="640" height="480" allow="autoplay"></iframe>
 
