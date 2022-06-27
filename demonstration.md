@@ -26,14 +26,14 @@ This is where you can view the table stastictics we found through our various te
 Seattle Testing : 137,479.904 square ft, without energy model and using euclidean distance. 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)| | | |
-| 10 Nodes(with beizer)(without added sqrt)| | | |
-| 26 Nodes(with beizer)(with added sqrt)| | | |
-| 10 Nodes(with beizer)(with added sqrt)| | | |
-| 26 Nodes(without beizer)(without added sqrt)| | | |
-| 10 Nodes(without beizer)(without added sqrt)| | | |
-| 26 Nodes(without beizer)(with added sqrt)| | | |
-| 10 Nodes(without beizer)(with added sqrt)| | | |
+| 26 Nodes(with beizer)(without added sqrt)|18868.698655725657|0.014852046966552734|20.73953011772769|
+| 10 Nodes(with beizer)(without added sqrt)|18974.036877065577|0.0058939456939697266|11.993227904476957|
+| 26 Nodes(with beizer)(with added sqrt)|18589.648978346544|2.825700044631958|11.779816936559783|
+| 10 Nodes(with beizer)(with added sqrt)|18665.466363066607|0.953603982925415|11.995236019134534|
+| 26 Nodes(without beizer)(without added sqrt)|21426.678230381574|0.01177215576171875|44|
+| 10 Nodes(without beizer)(without added sqrt)|20762.2366364086|0.017882347106933594|12|
+| 26 Nodes(without beizer)(with added sqrt)|19192.242363853322|2.8640007972717285|12|
+| 10 Nodes(without beizer)(with added sqrt)|19913.70849898475|0.9038188457489014|12|
 
 ### Table 2
 New York Testing : 202,476.83 square ft, without energy model and using euclidean distance. 
