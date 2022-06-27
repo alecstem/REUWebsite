@@ -52,7 +52,7 @@ Below are a collection of images that we created during the research project to 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/energy_consumption.png" width="500" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/energy consumption.png" width="500" height="200" >
 </p>
 <p align="center">
   <i>Comparison of point cloud path after the energy model is applied.</i>
