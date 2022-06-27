@@ -7,7 +7,7 @@ _Abstract:_ With the growing use of unmanned aerial vehicles UAVs for commercial
 
 | Software/Equipment  | Reasoning |
 | ------------- |:-------------:|
-| OpenTopography      | Used to access all point cloud datasets for testing purposes. OpenTopography API was used to access some datasets remotely.     |
+| OpenTopography      | Used to access all point cloud datasets for testing purposes. OpenTopography API was used to access datasets remotely.     |
 | UTM      | Python library used to convert WGS84 encoded coordinates to latitude and longitude to send to the UAV.     |
 | LASzip      | Used initially to unzip .laz files to .las and ASCII formats.      |
 | Open3D | Python visualization library used due to its available functionality for point cloud operations. |
