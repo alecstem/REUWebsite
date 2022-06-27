@@ -43,16 +43,16 @@ Below are a collection of images that we created during the research project to 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/collision_avoidance1.png" width="500" height="200" >
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/collision_avoidance2.png" width="500" height="200" >
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/collision_avoidance3.png" width="500" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/collision_avoidance1.png" width="400" height="300" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/collision_avoidance2.png" width="400" height="300" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/collision_avoidance3.png" width="400" height="300" >
 </p>
 <p align="center">
   <i>Comparison of point cloud path after collison avoidence is applied.</i>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/energy consumption.png" width="500" height="200" >
+  <img src="https://raw.githubusercontent.com/alecstem/REUWebsite/gh-pages/Images/energy consumption.png" width="500" height="400" >
 </p>
 <p align="center">
   <i>Comparison of point cloud path after the energy model is applied.</i>
