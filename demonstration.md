@@ -28,8 +28,8 @@ Seattle Testing : 137,479.904 square ft, without energy model and using euclidea
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|18868.698655725657|0.014852046966552734|20.73953011772769|
-| 10 Nodes(with beizer)(without added sqrt)|18974.036877065577|0.0058939456939697266|11.993227904476957|
-| 26 Nodes(with beizer)(with added sqrt)|18589.648978346544|2.825700044631958|11.779816936559783|
+| 10 Nodes(with beizer)(without added sqrt)|18974.036877065577|**0.0058939456939697266**|11.993227904476957|
+| 26 Nodes(with beizer)(with added sqrt)|**18589.648978346544**|2.825700044631958|**11.779816936559783**|
 | 10 Nodes(with beizer)(with added sqrt)|18665.466363066607|0.953603982925415|11.995236019134534|
 | 26 Nodes(without beizer)(without added sqrt)|21426.678230381574|0.01177215576171875|44|
 | 10 Nodes(without beizer)(without added sqrt)|20762.2366364086|0.017882347106933594|12|
@@ -42,8 +42,8 @@ New York Testing : 202,476.83 square ft, without energy model and using euclidea
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|28135.31118257428|0.06022977828979492|87.17051904697485|
-| 10 Nodes(with beizer)(without added sqrt)|30308.22020291801|0.02690577507019043|100.8687685813384|
-| 26 Nodes(with beizer)(with added sqrt)|25340.02580527548|50.36409831047058|46.99989661332926|
+| 10 Nodes(with beizer)(without added sqrt)|30308.22020291801|**0.02690577507019043**|100.8687685813384|
+| 26 Nodes(with beizer)(with added sqrt)|**25340.02580527548**|50.36409831047058|**46.99989661332926**|
 | 10 Nodes(with beizer)(with added sqrt)|26282.46478711936|11.167004346847534|46.999999721009054|
 | 26 Nodes(without beizer)(without added sqrt)|43521.859112274265|0.05768775939941406|219|
 | 10 Nodes(without beizer)(without added sqrt)|46636.2481734264|0.03206968307495117|155|
@@ -55,24 +55,24 @@ Auburn Testing : 780,464.475 square ft, without energy model and using euclidean
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)|46788.379610688215|0.016933679580688477|62.7928246659058|
+| 26 Nodes(with beizer)(without added sqrt)|46788.379610688215|**0.016933679580688477**|62.7928246659058|
 | 10 Nodes(with beizer)(without added sqrt)|49365.102807652926|0.01703810691833496|60.00000000104088|
 | 26 Nodes(with beizer)(with added sqrt)|44257.88851205062|114.56138706207275|24.00000000018884|
-| 10 Nodes(with beizer)(with added sqrt)|44231.85790133184|34.840612173080444|24.000000000164167|
+| 10 Nodes(with beizer)(with added sqrt)|**44231.85790133184**|34.840612173080444|24.000000000164167|
 | 26 Nodes(without beizer)(without added sqrt)|51737.491399905644|0.03738260269165039|82|
 | 10 Nodes(without beizer)(without added sqrt)|53365.8946290544|0.03297543525695801|60|
-| 26 Nodes(without beizer)(with added sqrt)|47055.49893676754|130.79488945007324|24|
-| 10 Nodes(without beizer)(with added sqrt)|48624.47327281727|31.27583122253418|24|
+| 26 Nodes(without beizer)(with added sqrt)|47055.49893676754|130.79488945007324|**24**|
+| 10 Nodes(without beizer)(with added sqrt)|48624.47327281727|31.27583122253418|**24**|
 
 ### Table 4
 Seattle Testing : 137,479.904 square ft, without energy model and using manhattan distance. 
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)|20609.040201573272|0.008338212966918945|27.640724727329903|
+| 26 Nodes(with beizer)(without added sqrt)|20609.040201573272|**0.008338212966918945**|27.640724727329903|
 | 10 Nodes(with beizer)(without added sqrt)|25170.890118871146|0.04794955253601074|73.44982528470416|
-| 26 Nodes(with beizer)(with added sqrt)|20534.20600708232|0.08215522766113281|24.767798112255118|
-| 10 Nodes(with beizer)(with added sqrt)|20722.75485884391|0.021234989166259766|21.390755608295773|
+| 26 Nodes(with beizer)(with added sqrt)|**20534.20600708232**|0.08215522766113281|24.767798112255118|
+| 10 Nodes(with beizer)(with added sqrt)|20722.75485884391|0.021234989166259766|**21.390755608295773**|
 | 26 Nodes(without beizer)(without added sqrt)|23904.799220629026|0.009230375289916992|50|
 | 10 Nodes(without beizer)(without added sqrt)|33313.708498984684|0.04663205146789551|98|
 | 26 Nodes(without beizer)(with added sqrt)|21963.256572914215|0.08598971366882324|28|
@@ -83,28 +83,28 @@ Seattle Testing : 137,479.904 square ft, with energy model and using euclidean d
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)|19631.779221541838|0.9207258224487305|10.000000000586681|
+| 26 Nodes(with beizer)(without added sqrt)|**19631.779221541838**|**0.9207258224487305**|10.000000000586681|
 | 10 Nodes(with beizer)(without added sqrt)|20235.289864730687|13.187394380569458|10.000000000625892|
 | 26 Nodes(with beizer)(with added sqrt)|19644.897584635473|54.86951160430908|10.000000000472532|
 | 10 Nodes(with beizer)(with added sqrt)|20242.17042834498|14.506782054901123|10.000000000625892|
-| 26 Nodes(without beizer)(without added sqrt)|20245.759306553646|1.0315840244293213|10|
-| 10 Nodes(without beizer)(without added sqrt)|20927.92206135784|14.214737176895142|10|
-| 26 Nodes(without beizer)(with added sqrt)|20245.759306553628|55.74381995201111|10|
-| 10 Nodes(without beizer)(with added sqrt)|20927.92206135783|14.157906532287598|10|
+| 26 Nodes(without beizer)(without added sqrt)|20245.759306553646|1.0315840244293213|**10**|
+| 10 Nodes(without beizer)(without added sqrt)|20927.92206135784|14.214737176895142|**10**|
+| 26 Nodes(without beizer)(with added sqrt)|20245.759306553628|55.74381995201111|**10**|
+| 10 Nodes(without beizer)(with added sqrt)|20927.92206135783|14.157906532287598|**10**|
 
 ### Table 6
 New York Testing : 202,476.83 square ft, with energy model and using euclidean distance. 
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)|26378.04473935686|57.22909450531006|43.00000000081785|
+| 26 Nodes(with beizer)(without added sqrt)|**26378.04473935686**|57.22909450531006|43.00000000081785|
 | 10 Nodes(with beizer)(without added sqrt)|29202.073234654126|66.51701736450195|43.00000000196854|
 | 26 Nodes(with beizer)(with added sqrt)|26563.885184620634|247.68237781524658|43.000000000729955|
 | 10 Nodes(with beizer)(with added sqrt)|29017.78677470133|71.95633625984192|43.00000000196854|
-| 26 Nodes(without beizer)(without added sqrt)|28146.099285388816|52.457475423812866|43|
-| 10 Nodes(without beizer)(without added sqrt)|30643.860018001273|68.36211895942688|43|
-| 26 Nodes(without beizer)(with added sqrt)|28146.099285388813|247.14927625656128|43|
-| 10 Nodes(without beizer)(with added sqrt)|30643.860018001273|61.64625644683838|43|
+| 26 Nodes(without beizer)(without added sqrt)|28146.099285388816|**52.457475423812866**|**43**|
+| 10 Nodes(without beizer)(without added sqrt)|30643.860018001273|68.36211895942688|**43**|
+| 26 Nodes(without beizer)(with added sqrt)|28146.099285388813|247.14927625656128|**43**|
+| 10 Nodes(without beizer)(with added sqrt)|30643.860018001273|61.64625644683838|**43**|
 
 ### Table 7
 Auburn Testing : 780,464.475 square ft, with energy model and using euclidean distance. 
@@ -113,9 +113,9 @@ Auburn Testing : 780,464.475 square ft, with energy model and using euclidean di
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|46801.754054073455|66.85627031326294|32.00000000012865|
 | 10 Nodes(with beizer)(without added sqrt)|49611.015302947795|80.46605181694031|16.000000000179384|
-| 26 Nodes(with beizer)(with added sqrt)|46676.13389960496|352.5643002986908|32.000000000025224|
+| 26 Nodes(with beizer)(with added sqrt)|**46676.13389960496**|352.5643002986908|32.000000000025224|
 | 10 Nodes(with beizer)(with added sqrt)|49653.345452975125|69.55059337615967|16.000000000062478|
-| 26 Nodes(without beizer)(without added sqrt)|49479.01015202321|63.89737105369568|32|
-| 10 Nodes(without beizer)(without added sqrt)|52670.5627484772|81.14006495475769|16|
+| 26 Nodes(without beizer)(without added sqrt)|49479.01015202321|**63.89737105369568**|32|
+| 10 Nodes(without beizer)(without added sqrt)|52670.5627484772|81.14006495475769|**16**|
 | 26 Nodes(without beizer)(with added sqrt)|49479.01015202324|351.2700893878937|32|
-| 10 Nodes(without beizer)(with added sqrt)|52670.56274847722|73.32111024856567|16|
+| 10 Nodes(without beizer)(with added sqrt)|52670.56274847722|73.32111024856567|**16**|
