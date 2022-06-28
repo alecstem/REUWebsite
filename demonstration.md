@@ -83,39 +83,39 @@ Seattle Testing : 137,479.904 square ft, with energy model and using euclidean d
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)| | | |
-| 10 Nodes(with beizer)(without added sqrt)| | | |
-| 26 Nodes(with beizer)(with added sqrt)| | | |
-| 10 Nodes(with beizer)(with added sqrt)| | | |
-| 26 Nodes(without beizer)(without added sqrt)| | | |
-| 10 Nodes(without beizer)(without added sqrt)| | | |
-| 26 Nodes(without beizer)(with added sqrt)| | | |
-| 10 Nodes(without beizer)(with added sqrt)| | | |
+| 26 Nodes(with beizer)(without added sqrt)|19631.779221541838|0.9207258224487305|10.000000000586681|
+| 10 Nodes(with beizer)(without added sqrt)|20235.289864730687|13.187394380569458|10.000000000625892|
+| 26 Nodes(with beizer)(with added sqrt)|19644.897584635473|54.86951160430908|10.000000000472532|
+| 10 Nodes(with beizer)(with added sqrt)|20242.17042834498|14.506782054901123|10.000000000625892|
+| 26 Nodes(without beizer)(without added sqrt)|20245.759306553646|1.0315840244293213|10|
+| 10 Nodes(without beizer)(without added sqrt)|20927.92206135784|14.214737176895142|10|
+| 26 Nodes(without beizer)(with added sqrt)|20245.759306553628|55.74381995201111|10|
+| 10 Nodes(without beizer)(with added sqrt)|20927.92206135783|14.157906532287598|10|
 
 ### Table 6
 New York Testing : 202,476.83 square ft, with energy model and using euclidean distance. 
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)| | | |
-| 10 Nodes(with beizer)(without added sqrt)| | | |
-| 26 Nodes(with beizer)(with added sqrt)| | | |
-| 10 Nodes(with beizer)(with added sqrt)| | | |
-| 26 Nodes(without beizer)(without added sqrt)| | | |
-| 10 Nodes(without beizer)(without added sqrt)| | | |
-| 26 Nodes(without beizer)(with added sqrt)| | | |
-| 10 Nodes(without beizer)(with added sqrt)| | | |
+| 26 Nodes(with beizer)(without added sqrt)|26378.04473935686|57.22909450531006|43.00000000081785|
+| 10 Nodes(with beizer)(without added sqrt)|29202.073234654126|66.51701736450195|43.00000000196854|
+| 26 Nodes(with beizer)(with added sqrt)|26563.885184620634|247.68237781524658|43.000000000729955|
+| 10 Nodes(with beizer)(with added sqrt)|29017.78677470133|71.95633625984192|43.00000000196854|
+| 26 Nodes(without beizer)(without added sqrt)|28146.099285388816|52.457475423812866|43|
+| 10 Nodes(without beizer)(without added sqrt)|30643.860018001273|68.36211895942688|43|
+| 26 Nodes(without beizer)(with added sqrt)|28146.099285388813|247.14927625656128|43|
+| 10 Nodes(without beizer)(with added sqrt)|30643.860018001273|61.64625644683838|43|
 
 ### Table 7
 Auburn Testing : 780,464.475 square ft, with energy model and using euclidean distance. 
 
 | Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
-| 26 Nodes(with beizer)(without added sqrt)| | | |
-| 10 Nodes(with beizer)(without added sqrt)| | | |
-| 26 Nodes(with beizer)(with added sqrt)| | | |
-| 10 Nodes(with beizer)(with added sqrt)| | | |
-| 26 Nodes(without beizer)(without added sqrt)| | | |
-| 10 Nodes(without beizer)(without added sqrt)| | | |
-| 26 Nodes(without beizer)(with added sqrt)| | | |
-| 10 Nodes(without beizer)(with added sqrt)| | | |
+| 26 Nodes(with beizer)(without added sqrt)|46801.754054073455|66.85627031326294|32.00000000012865|
+| 10 Nodes(with beizer)(without added sqrt)|49611.015302947795|80.46605181694031|16.000000000179384|
+| 26 Nodes(with beizer)(with added sqrt)|46676.13389960496|352.5643002986908|32.000000000025224|
+| 10 Nodes(with beizer)(with added sqrt)|49653.345452975125|69.55059337615967|16.000000000062478|
+| 26 Nodes(without beizer)(without added sqrt)|49479.01015202321|63.89737105369568|32|
+| 10 Nodes(without beizer)(without added sqrt)|52670.5627484772|81.14006495475769|16|
+| 26 Nodes(without beizer)(with added sqrt)|49479.01015202324|351.2700893878937|32|
+| 10 Nodes(without beizer)(with added sqrt)|52670.56274847722|73.32111024856567|16|
