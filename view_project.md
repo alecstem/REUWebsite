@@ -21,7 +21,7 @@ show the validity of this method.
 | LASzip      | Used initially to unzip .laz files to .las and ASCII formats.      |
 | Open3D | Python visualization library used due to its available functionality for point cloud operations. |
 | ARDU Pilot | Used for communication from computer to UAV and for simulated UAV testing purposes. |
-| Mission Planner/MAVProxy | Simulation and transmission software that can control UAVs for realistic simulation testing connecting to ARDU Pilot over IP addresses. |
+| Mission Planner / MAVProxy |Simulation and transmission software that can control UAVs for realistic simulation testing connecting to ARDU Pilot over IP addresses.|
 | Selenium | Python library used with Chrome to remotely navigate OpenTopography. | 
 
 ### [Pseudocode](/pseudocode.md)
