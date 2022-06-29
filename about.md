@@ -23,7 +23,7 @@ We would like to thank the NSF(National Sicence Foundation), Department of Defen
 <p align="center">
   <img src="Images/NSF1.jpg" width="300" height="170" >
   <img src="Images/DoD1.jpg" width="300" height="170" >
-  <img src="Images/Auburn1.jpg" width="300" height="170" >
+  <img src="Images/Auburn1.png" width="300" height="170" >
 </p>
 
 # Contact Us
