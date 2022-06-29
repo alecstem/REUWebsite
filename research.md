@@ -11,7 +11,7 @@ strategies, and prospects”. In: Applied Energy 255 (2019), p. 113823. issn: 03
 [2] Hasini Viranga Abeywickrama et al. “Comprehensive Energy Consumption Model for Unmanned Aerial
 Vehicles, Based on Empirical Studies of Battery Performance”. In: IEEE Access 6 (2018), pp. 58383–
 58394. doi: 10.1109/ACCESS.2018.2875040.
-58395. 
+
 [3] Jo ̃ao Braun et al. “A Comparison of A* and RRT* Algorithms with Dynamic and Real Time Constraint
 Scenarios for Mobile Robots”. In: Jan. 2019, pp. 398–405. doi: 10.5220/0008118803980405.
 
