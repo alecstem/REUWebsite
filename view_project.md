@@ -12,6 +12,8 @@ method presented is designed specifically for point clouds obtained via LiDAR (L
 Ranging) scans from aircraft, where cavities may be present underneath the surface layer. Simulations
 show the validity of this method.
 
+_Results:_ As shown in the tables under the heading [Demonstration/Results](/demonstration.md) bewlow show...
+
 ## Software and Equipment Used
 
 | Software/Equipment  | Reasoning |
