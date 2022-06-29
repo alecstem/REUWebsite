@@ -100,6 +100,8 @@ program/topographic-data-quality-levels-qls.
 wikipedia.org/w/index.php?title=Simultaneous%20localization%20and%20mapping&oldid=
 1092128572. [Online; accessed 08-June-2022]. 2022.1092128573.
 
+
+
 [26] Liang Yang et al. “A literature review of UAV 3D path planning”. In: Proceeding of the 11th World
 Congress on Intelligent Control and Automation. 2014, pp. 2376–2381. doi: 10.1109/WCICA.2014.
 7053093.
