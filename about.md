@@ -18,7 +18,7 @@ Luke Bower is a sophomore computer science student from the University of Alabam
 </p>
 
 # Acknowledgement
-We would like to thank the NSF(National Sicence Foundation), Department of Defence, and Auburn Univeristy for hosting, operating, and funding our research. We would also like to thank Dr. Richard Chapman and Dr. Saad Biaz for hosting and orgnizing our weekly agendas.
+We would like to thank the NSF(National Sicence Foundation), Department of Defence, and Auburn Univeristy for organizing, funding, and hosting our research. We would also like to thank Dr. Richard Chapman and Dr. Saad Biaz for hosting and orgnizing our weekly agendas.
 
 <p align="center">
   <img src="Images/NSF1.jpg" width="250" height="180" >
