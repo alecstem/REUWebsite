@@ -26,6 +26,8 @@ _Results:_ As shown in the tables under the heading [Demonstration/Results](/dem
 | Mission Planner / MAVProxy |Simulation and transmission software that can control UAVs for realistic simulation testing connecting to ARDU Pilot over IP addresses.|
 | Selenium | Python library used with Chrome to remotely navigate OpenTopography. | 
 
+## Our Project
+
 ### [Pseudocode](/pseudocode.md)
 Contains pseudocode snippets from our paper detailing the algorithms used in our process.
 
