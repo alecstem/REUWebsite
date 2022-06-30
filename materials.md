@@ -20,4 +20,4 @@ Final Presentation
 ### Written Materials
 [Mid-term Paper](/Midterm_Paper.pdf)\
 Final Paper\
-Poster
+[Poster](/REU_Poster2.pdf)
