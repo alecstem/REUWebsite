@@ -29,7 +29,7 @@ _Results:_ As shown in the tables under the heading [Demonstration/Results](/dem
 ## Our Project
 
 ### [Pseudocode](/pseudocode.md)
-Contains pseudocode snippets from our paper detailing the algorithms used in our process.
+Contains pseudocode snippets from our paper detailing the some of the main algorithms used in our process.
 
 ### [Visualization](/visualization.md)
 Contains images and diagrams to aid with understanding.
