@@ -18,8 +18,7 @@ strategies, and prospects”. In: Applied Energy 255 (2019), p. 113823. issn: 03
 //doi.org/10.1016/j.apenergy.2019.113823.
 
 [5] Hasini Viranga Abeywickrama et al. “Comprehensive Energy Consumption Model for Unmanned Aerial
-Vehicles, Based on Empirical Studies of Battery Performance”. In: IEEE Access 6 (2018), pp. 58383–
-58394. doi: 10.1109/ACCESS.2018.2875040.
+Vehicles, Based on Empirical Studies of Battery Performance”. In: IEEE Access 6 (2018), pp. 58383–58394. doi: 10.1109/ACCESS.2018.2875040.
 
 [6] Jo ̃ao Braun et al. “A Comparison of A* and RRT* Algorithms with Dynamic and Real Time Constraint
 Scenarios for Mobile Robots”. In: Jan. 2019, pp. 398–405. doi: 10.5220/0008118803980405.
@@ -104,8 +103,7 @@ Sens. Spat. Inf. Sci (2017), pp. 297–300.
 program/topographic-data-quality-levels-qls.
 
 [28] Wikipedia. Simultaneous localization and mapping — Wikipedia, The Free Encyclopedia. http://en.
-wikipedia.org/w/index.php?title=Simultaneous%20localization%20and%20mapping&oldid=
-1092128572. [Online; accessed 08-June-2022]. 2022.
+wikipedia.org/w/index.php?title=Simultaneous%20localization%20and%20mapping&oldid=1092128572. [Online; accessed 08-June-2022]. 2022.
 
 [29] Liang Yang et al. “A literature review of UAV 3D path planning”. In: Proceeding of the 11th World
 Congress on Intelligent Control and Automation. 2014, pp. 2376–2381. doi: 10.1109/WCICA.2014.
