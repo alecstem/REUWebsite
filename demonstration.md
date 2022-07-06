@@ -127,6 +127,7 @@ Auburn Testing : 780,464.475 square ft, with energy model and using euclidean di
 CAS testing
 
 | Test Map | # of Sucecesses | Precentage | Size(m) |
+| ------------- |-------------|------------- |:-------------:|
 | New_York_2 | 12 out of 20 | 60% | 168x186 |
 | Seattle | 10 out of 20 | 50% | 98x156 |
 | Statue_of_Liberty | 10 out of 20 | 50% | 127x107 |
