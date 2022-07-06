@@ -122,3 +122,12 @@ Auburn Testing : 780,464.475 square ft, with energy model and using euclidean di
 | 10 Nodes(without beizer)(without added sqrt)|52670.5627|81.1400|**16**|
 | 26 Nodes(without beizer)(with added sqrt)|49479.0101|351.2700|32|
 | 10 Nodes(without beizer)(with added sqrt)|52670.5627|73.3211|**16**|
+
+### Table 8 
+CAS testing
+
+| Test Map | # of Sucecesses | Precentage | Size(m) |
+| New_York_2 | 12 out of 20 | 60% | 168x186 |
+| Seattle | 10 out of 20 | 50% | 98x156 |
+| Statue_of_Liberty | 10 out of 20 | 50% | 127x107 |
+| AuburnU | 15 out of 20 | 75% | 401x182 |
