@@ -29,13 +29,13 @@ _Results:_ As shown in the tables under the heading [Demonstration/Results](/dem
 ## Our Project
 
 ### [Pseudocode](/pseudocode.md)
-Contains pseudocode snippets from our paper detailing the some of the main algorithms used in our process.
+Contains pseudocode snippets from our paper detailing some of the main algorithms used in our process.
 
 ### [Visualization](/visualization.md)
 Contains images and diagrams to aid with understanding.
 
 ### [Demonstration/Results](/demonstration.md)
-Contains videos of demonstrations of our prcess along with tables of the data we collected.
+Contains videos of demonstrations of our process along with tables of the data we collected.
 
 ### [GitHub Repository](https://github.com/alecstem/2022-REU-on-Smart-UAVs)
 View our source code at the repository.
