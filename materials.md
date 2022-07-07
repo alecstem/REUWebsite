@@ -15,7 +15,7 @@ These are all of the materials we created during the course of the REU. The prog
 ### Presentations
 [Friday Seminar Presentation](https://docs.google.com/presentation/d/1KbjP7y5YD01b_-mqpuHud6Zko5ZsL4j2IQoNp3FVQ-k/edit?usp=sharing)\
 [Mid-term Presentation](https://docs.google.com/presentation/d/181ZvXhcdHpZ4WADBEf2VqIRal-t6j8Jq39bH9s006TY/edit?usp=sharing)\
-Final Presentation
+[Final Presentation](https://docs.google.com/presentation/d/11b7J8TrT_GS25sYFj9ea4QLatWzRAWmyw73vdgG-6To/edit?usp=sharing)
 
 ### Written Materials
 [Mid-term Paper](/Midterm_Paper.pdf)\
