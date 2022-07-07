@@ -1,6 +1,6 @@
 # Demonstrations/Results
 ## Demonstrations
-This is where you can view working demos of collision avoidance and the conversions from point cloud to GPS way points simulated in ARDU Pilot.
+This is where you can view working demos of collision avoidance and the conversions from point cloud to GPS waypoints simulated in ARDU Pilot.
 
 ## Collision Avoidance
 ### Test 1
@@ -23,7 +23,7 @@ This is where you can view working demos of collision avoidance and the conversi
 ### Test 2
 
 ## Results
-This is where you can view the table stastictics we found through our various test. The computer specifications are an HP laptop with processor: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 2.70 GHz, ram: 32.0 GB (31.7 GB usable), system type: 64-bit operating system, x64-based processor, graphics card: Intel iRISxe. Each test was also ran with a buffer size of 3m and our adapted A* algorithem.
+This is where you can view the table statistics we found through our various tests. The computer specifications are an HP laptop with processor: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz 2.70 GHz, ram: 32.0 GB (31.7 GB usable), system type: 64-bit operating system, x64-based processor, graphics card: Intel iRISxe. Each test was also run with a buffer size of 3m and our adapted A* algorithm.
 
 ### Table 1
 Seattle Testing : 137,479.904 square ft, without energy model and using euclidean distance. 
