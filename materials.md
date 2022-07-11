@@ -19,5 +19,5 @@ These are all of the materials we created during the course of the REU. The prog
 
 ### Written Materials
 [Mid-term Paper](/Midterm_Paper.pdf)\
-[Final Paper](/2022_REU_on_Smart_UAVs_FINAL_Final.pdf)\
+[Final Paper](/2022_REU_on_Smart_UAVs_Final.pdf)\
 [Poster](/REU_Poster_FINAL_Final.pdf)
