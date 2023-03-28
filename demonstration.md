@@ -32,7 +32,7 @@ This is where you can view the table statistics we found through our various tes
 ### Table 1
 Seattle Testing : 137,479.904 square ft, without energy model and using euclidean distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|18868.6986|0.0148|20.7395|
 | 10 Nodes(with beizer)(without added sqrt)|18974.0368|**0.0058**|11.9932|
@@ -46,7 +46,7 @@ Seattle Testing : 137,479.904 square ft, without energy model and using euclidea
 ### Table 2
 New York Testing : 202,476.83 square ft, without energy model and using euclidean distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|28135.3111|0.0602|87.1705|
 | 10 Nodes(with beizer)(without added sqrt)|30308.2202|**0.0269**|100.8687|
@@ -60,7 +60,7 @@ New York Testing : 202,476.83 square ft, without energy model and using euclidea
 ### Table 3
 Auburn Testing : 780,464.475 square ft, without energy model and using euclidean distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|46788.3796|**0.0169**|62.7928|
 | 10 Nodes(with beizer)(without added sqrt)|49365.1028|0.0170|60.0000|
@@ -74,7 +74,7 @@ Auburn Testing : 780,464.475 square ft, without energy model and using euclidean
 ### Table 4
 Seattle Testing : 137,479.904 square ft, without energy model and using manhattan distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|20609.0402|**0.0083**|27.6407|
 | 10 Nodes(with beizer)(without added sqrt)|25170.8901|0.0479|73.4498|
@@ -88,7 +88,7 @@ Seattle Testing : 137,479.904 square ft, without energy model and using manhatta
 ### Table 5
 Seattle Testing : 137,479.904 square ft, with energy model and using euclidean distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|**19631.7792**|**0.9207**|10.0000|
 | 10 Nodes(with beizer)(without added sqrt)|20235.2898|13.1873|10.0000|
@@ -102,7 +102,7 @@ Seattle Testing : 137,479.904 square ft, with energy model and using euclidean d
 ### Table 6
 New York Testing : 202,476.83 square ft, with energy model and using euclidean distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|**26378.0447**|57.2290|43.0000|
 | 10 Nodes(with beizer)(without added sqrt)|29202.0732|66.5170|43.0000|
@@ -116,7 +116,7 @@ New York Testing : 202,476.83 square ft, with energy model and using euclidean d
 ### Table 7
 Auburn Testing : 780,464.475 square ft, with energy model and using euclidean distance. 
 
-| Testing Style  | Distance(m) | Computational Time(s) | Elevation Change(m) |
+| Testing Style  | Distance | Computational Time(s) | Elevation Change(m) |
 | ------------- |-------------|------------- |:-------------:|
 | 26 Nodes(with beizer)(without added sqrt)|46801.7540|66.8562|32.0000|
 | 10 Nodes(with beizer)(without added sqrt)|49611.0153|80.4660|16.0000|
